@@ -1,0 +1,7 @@
+ExitPolicy reject *:*
+ExcludeExitNodes {RU}, {UA}, {BY}
+AutomapHostsOnResolve 1
+TransPort 9040
+DNSPort 5300
+SocksPort 9050 IsolateDestAddr
+
