@@ -14,5 +14,5 @@ docker run --name tor --net host -d tor
 
 ## crond
 <code>
-echo "*  */1  *  *  *  root ipset flush black_list && /[git dir]/fill_ipset.sh"
+echo "0  */1  *  *  *  root ipset flush black_list && /[git dir]/fill_ipset.sh"
 </code>
