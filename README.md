@@ -1,5 +1,11 @@
 # torproxy
 
+## Install
+```
+./install
+```
+that's all
+
 ## BUILD
 
 docker build -t tor .
