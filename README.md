@@ -6,7 +6,7 @@ https://github.com/yarmyl/torproxy.git
 cd torproxy
 ./install
 ```
-that's all
+that's **ALL**
 
 ## BUILD
 
