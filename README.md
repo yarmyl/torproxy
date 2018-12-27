@@ -4,7 +4,7 @@
 ```
 https://github.com/yarmyl/torproxy.git
 cd torproxy
-sudo ./install
+sudo ./install.sh
 ```
 that's **ALL**
 
