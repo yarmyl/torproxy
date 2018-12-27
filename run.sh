@@ -8,12 +8,13 @@ then
 else
     docker start tor
 fi
-if [ "$1" == "fill" ]
-then
-    while true
-    do
+
+while true
+do
+    if [ "$1" == "fill" ]
+    then
         ipset flush black_list
         ./fill_ipset.sh
-        sleep 600
-    done
-fi
+    fi
+    sleep 600
+done
