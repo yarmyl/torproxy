@@ -2,7 +2,7 @@
 
 ## Install
 ```
-https://github.com/yarmyl/torproxy.git
+git clone https://github.com/yarmyl/torproxy.git
 cd torproxy
 sudo ./install.sh
 ```
