@@ -2,6 +2,7 @@
 
 ## Install
 ```
+https://github.com/yarmyl/torproxy.git
 ./install
 ```
 that's all
