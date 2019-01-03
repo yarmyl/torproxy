@@ -6,7 +6,7 @@ git clone https://github.com/yarmyl/torproxy.git
 cd torproxy
 sudo ./install.sh
 ```
-that's **ALL**
+that's **enough**
 
 ## BUILD
 
